@@ -1,3 +1,0 @@
-a=bilal
-
-print(a)
