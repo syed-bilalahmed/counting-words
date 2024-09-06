@@ -1,0 +1,3 @@
+a=bilal
+
+print(a)
